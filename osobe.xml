@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="css/xmlStyle.css"?>
+<Osobe>
+	<Osoba pol="M">
+		<ime>Mihajlo</ime>
+		<prezime>Marinković</prezime>
+		<email>mihajlo@email.com</email>
+		<lozinka>123456789</lozinka>
+		<modeli>
+			<model>Megane</model>
+		</modeli>
+	</Osoba>
+	<Osoba pol="Z">
+		<ime>Milena</ime>
+		<prezime>Petrović</prezime>
+		<email>milena@email.com</email>
+		<lozinka>651615203</lozinka>
+		<modeli>
+			<model>Clio</model>
+		</modeli>
+	</Osoba>
+	<Osoba pol="M">
+		<ime>Dragan</ime>
+		<prezime>Pavlović</prezime>
+		<email>dragan@email.com</email>
+		<lozinka>311068050</lozinka>
+		<modeli>
+			<model>Talisman</model>
+		</modeli>
+	</Osoba>
+</Osobe>
